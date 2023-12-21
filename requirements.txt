@@ -1,0 +1,12 @@
+asttokens
+astunparse
+Flask
+gast
+gunicorn
+joblib
+numpy
+pandas
+scikit-learn
+tensorflow
+websocket-client
+Werkzeug
